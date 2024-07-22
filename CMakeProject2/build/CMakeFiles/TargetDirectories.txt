@@ -1,0 +1,3 @@
+C:/Users/dmitr/Desktop/Cmake/CMakeProject2/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/dmitr/Desktop/Cmake/CMakeProject2/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/dmitr/Desktop/Cmake/CMakeProject2/build/CMakeProject2/CMakeFiles/CMakeProject2.dir
